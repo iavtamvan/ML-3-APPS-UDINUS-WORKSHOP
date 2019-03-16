@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "839905477452",
+    "firebase_url": "https://udinus-tflite.firebaseio.com",
+    "project_id": "udinus-tflite",
+    "storage_bucket": "udinus-tflite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839905477452:android:922dba657001bd09",
+        "android_client_info": {
+          "package_name": "com.sandec.tensorflowlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839905477452-44rh9ukddbu8uabuprn5kve0nqieotdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjzFv-Dgv-PuMUmKH7E1UpDMV3AfV7O0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
